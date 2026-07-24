@@ -18,6 +18,11 @@
       "label": "GitHub",
       "url": "https://github.com/jifor",
       "svg_path": "img/github.svg"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=WreVf0sAAAAJ&hl=en",
+      "svg_path": "img/globe.svg"
     }
   ],
   "work_experience": [
@@ -101,44 +106,25 @@
   ],
   "skills": [
     {
-      "name": "My First Skill",
+      "name": "Python, Git, Microsoft Office, Written and Verbal Communication",
       "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     },
     {
-      "name": "My Second Skill",
+      "name": "Jira, SQL, Data Analysis",
       "proficiency": 80,
       "proficiency_label": "Proficiency Level"
     }
   ],
   "interests": [
     {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
+      "name": "Formula 1"
     },
     {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
+      "name": "Reading"
+    },
+    {
+      "name": "Playing Guitar"
     }
   ]
 }

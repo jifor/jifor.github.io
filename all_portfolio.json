@@ -1,0 +1,194 @@
+{
+  "name": "Jason Forbus",
+  "image_path": "img/Jason F Portrait.jpg",
+  "contact": {
+    "email": "jforbus1030@gmail.com",
+    "phone": "(205)531-7298",
+    "location": "Charlottesville, VA"
+  },
+  "summary": "Current Physics Ph.D. Student at the University of Virginia. Several years experience in condensed matter research. Interested in signal processing and data analysis roles.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jason-forbus-48068623b/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/jifor",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "University of Alabama at Birmingham",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.uab.edu/home/",
+      "start_date": "08/01/2023",
+      "end_date": "05/01/2025",
+      "summary": "Conducted research on ultrawide bandgap semiconductors using electron paramagnetic resonance (EPR) investigating defect mechanisms and material properties. Published andpresented research findings (see Google Scholar)",
+      "highlights": [
+        "PI: Dr. Mary Ellen Zvanut mezvanut@uab.edu"
+      ]
+    },
+    {
+      "company": "LabConnect",
+      "position": "Software Development Intern",
+      "url": "https://www.labconnect.com/",
+      "start_date": "09/01/2022",
+      "end_date": "08/01/2023",
+      "summary": "Developed and maintained database systems using SQL for a Laboratory Information Management System (LIMS). Contributed to backend and web development using .NET andC#. Collaborated with team using version control and project tracking tools.",
+      "highlights": [
+        "Reference available: Keith Cutcliffe keithcutcliffe@gmail.com"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Nonradiative quenching of EPR signals in germanium-doped AlGaN: Evidence for DX-center formation",
+      "summary": "Jason Forbus, Darshana Wickramaratne, John L. Lyons, M. E. Zvanut",
+      "url": "https://pubs.aip.org/aip/apl/article-abstract/126/4/042101/3332352/Nonradiative-quenching-of-EPR-signals-in-germanium?redirectedFrom=fulltext",
+      "highlights": [
+        "Editor's Pick in Applied Physics Letters"
+      ]
+    },
+    {
+      "title": "Nonradiative Quenching of the Neutral Donor in Ge-doped AlGaN: Evidence for DX-center Formation",
+      "summary": "Jason I Forbus, Mary Ellen Zvanut",
+      "url": "https://meetings-archive.aps.org/smt/2025/mar-l43/2/",
+      "highlights": [
+        "Presentation at APS Global Physics Summit 2025"
+      ]
+    },
+    {
+      "title": "Compensation Mechanisms in Ge-Doped AlxGa1-xN",
+      "summary": "Jason I Forbus, Mary Ellen Zvanut",
+      "url": "https://meetings.aps.org/Meeting/SES24/Session/G01.6",
+      "highlights": [
+        "Presentation at 91st Annual Meeting of the Southeastern Section of the APS, 2024"
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Latest Organization",
+      "position": "Position One",
+      "url": "https://sample.com",
+      "start_date": "01/01/2020",
+      "end_date": "Present",
+      "summary": "Short summary about present volunteer work",
+      "highlights": [
+        "First Duty of Current Organization",
+        "Second Duty of Current Organization",
+        "Third Duty of Current Organization"
+      ]
+    },
+    {
+      "organization": "Previous Organization",
+      "position": "Position Two",
+      "url": "https://sample.com",
+      "start_date": "01/01/2010",
+      "end_date": "01/01/2020",
+      "summary": "Short summary about previous volunteer work",
+      "highlights": [
+        "First Duty of Previous Organization",
+        "Second Duty of Previous Organization",
+        "Third Duty of Previous Organization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Virginia",
+      "location": "Charlottesville, VA",
+      "url": "https://www.virginia.edu/",
+      "degrees": [
+        "Ph.D. in Physics"
+      ],
+      "graduation_date": "2030 (Expected)"
+    },
+    {
+      "institution": "Univerisity of Alabama at Birmingham",
+      "location": "Birmingham, AL",
+      "url": "https://www.uab.edu/home/",
+      "degrees": ["Master of Science in Physics"],
+      "honors": ["Dean's Award Recipient"],
+      "gpa_cumulative": "3.8",
+      "graduation_date": "05/01/2025"
+    },
+        {
+      "institution": "Univerisity of Alabama at Birmingham",
+      "location": "Birmingham, AL",
+      "url": "https://www.uab.edu/home/",
+      "degrees": ["Bachelor of Science in Physics", "Minor in Mathematics"],
+      "honors": ["Dean's List", "The Robert and Edith Bauman Endowed Scholarship in Physics"],
+      "gpa_cumulative": "3.7",
+      "graduation_date": "04/30/2023"
+    }
+  ],
+  "skills": [
+    {
+      "name": "My First Skill",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "My Second Skill",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "My First Hobby",
+      "summary": "Short summary about my first Hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "My Second Hobby",
+      "summary": "Short summary about my second hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=10",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "American Sign Language",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Person One",
+      "relation": "Previous Boss",
+      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
+    },
+    {
+      "name": "Person Two",
+      "relation": "Previous Coworker",
+      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
+    }
+  ]
+}

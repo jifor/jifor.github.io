@@ -4,9 +4,9 @@
   "contact": {
     "email": "jforbus1030@gmail.com",
     "phone": "(205)531-7298",
-    "location": "Charlottesville, VA"
+    "location": "Huntsville, AL"
   },
-  "summary": "Current Physics Ph.D. Student at the University of Virginia. Several years experience in condensed matter research. Interested in signal processing and data analysis roles.",
+  "summary": "Radar Signal Processing Engineer at Leidos Dynetics",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -77,15 +77,6 @@
   ],
   "education": [
     {
-      "institution": "University of Virginia",
-      "location": "Charlottesville, VA",
-      "url": "https://www.virginia.edu/",
-      "degrees": [
-        "Ph.D. in Physics"
-      ],
-      "graduation_date": "2030 (Expected)"
-    },
-    {
       "institution": "Univerisity of Alabama at Birmingham",
       "location": "Birmingham, AL",
       "url": "https://www.uab.edu/home/",
@@ -118,13 +109,31 @@
   ],
   "interests": [
     {
-      "name": "Formula 1"
+      "name": "Formula 1",
+      "summary": "Favorite driver: Oscar Piastri ↓",
+      "images": [
+        {
+          "img_path": "img/Oscar.png"
+        }
+      ]
     },
     {
-      "name": "Reading"
+      "name": "Reading",
+      "summary": "Favorite books: Lord of the Rings, The Da Vinci Code, A Moveable Feast",
+      "images": [
+        {
+          "img_path": "img/books.png"
+        }
+      ]
     },
     {
-      "name": "Playing Guitar"
+      "name": "Playing Guitar",
+      "summary": "Favorite Guitarists: Jimmy Page and Johnny Marr",
+      "images": [
+        {
+          "img_path": "img/jimmy_page.png"
+        }
+      ]
     }
   ]
 }

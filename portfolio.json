@@ -26,6 +26,14 @@
     }
   ],
   "work_experience": [
+        {
+      "company": "Leidos",
+      "position": "Radar Signal Processing Engineer",
+      "url": "https://www.leidos.com/insights/dynetics?market=81",
+      "start_date": "09/17/2026",
+      "end_date": "Present",
+      "summary": "Will update soon..."
+    },
     {
       "company": "University of Alabama at Birmingham",
       "position": "Graduate Research Assistant",
@@ -85,7 +93,7 @@
       "gpa_cumulative": "3.8",
       "graduation_date": "05/01/2025"
     },
-        {
+    {
       "institution": "Univerisity of Alabama at Birmingham",
       "location": "Birmingham, AL",
       "url": "https://www.uab.edu/home/",
@@ -93,6 +101,12 @@
       "honors": ["Dean's List", "The Robert and Edith Bauman Endowed Scholarship in Physics"],
       "gpa_cumulative": "3.7",
       "graduation_date": "04/30/2023"
+    },
+    {
+      "institution": "Univerisity of Virginia",
+      "location": "Charlottesville, VA",
+      "url": "https://www.phys.virginia.edu/",
+      "degrees": ["Ph.D. in Physics (Unfinished)", "Attended 08/2025-07/2026"]
     }
   ],
   "skills": [
